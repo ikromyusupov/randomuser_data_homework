@@ -1,7 +1,4 @@
-
-
 import get_data
-
 
 def get_gender_users(data: dict) -> list:
     """
